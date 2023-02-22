@@ -34,6 +34,8 @@
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mikixit&" alt="mikixit" />
 
+<br>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mikixit&show_icons=true&locale=en" alt="mikixit" />
 
 
