@@ -29,9 +29,9 @@
 :zap: <h1 align="center"> :zap: GitHub Stats </h1>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikixit&show_icons=true&locale=en&layout=compact" alt="mikixit" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikixit&show_icons=true&locale=en&layout=compact" alt="mikixit" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikixit&show_icons=true&locale=en" alt="mikixit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mikixit&" alt="mikixit" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mikixit&" alt="mikixit" /></p>
 
