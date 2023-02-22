@@ -1,4 +1,4 @@
-<h1 align="center"> 👋  Hey, <a href="https://www.linkedin.com/in/michaeltorresdeveloper/">Michael</a> here.   👨🏻‍💻</h1>
+<h1 align="center">| 👋  Hey, <a href="https://www.linkedin.com/in/michaeltorresdeveloper/">Michael</a> here.  👨🏻‍💻 |</h1>
 
 <h3 align="center">Web Developer made with Heart  ❤️ and Passion 🔥 for development.</h3>
 
