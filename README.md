@@ -7,7 +7,7 @@
 
 - 💻 All of my projects are available at [https://github.com/MikixIT?tab=repositories](https://github.com/MikixIT?tab=repositories)
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Javascript, Design UX & UI**
 
 - 📫 How to reach me **michaeltorrespa@gmail.com**
 
