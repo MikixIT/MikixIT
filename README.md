@@ -1,4 +1,4 @@
-<h1 align="center">Hey, here Michael 👨🏻‍💻</h1>
+<h1 align="center">Hey, Michael here.  👨🏻‍💻</h1>
 
 <h3 align="center">Web Developer made with Heart  ❤️ and Passion 🔥 for development.</h3>
 
