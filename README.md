@@ -2,7 +2,7 @@
 
 <p align="center"> Web Developer made with Heart  ❤️ and Passion 🔥 for development.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mikixit&label=Profile%20views&color=0e75b6&style=flat" alt="mikixit" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mikixit&label=Profile%20views&color=0e75b6&style=flat" alt="mikixit"/> </p>
 
 - 🌱 I’m currently learning **React, Typescript, NodeJS**
 
