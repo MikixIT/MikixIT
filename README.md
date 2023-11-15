@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **michaeltorrespa@gmail.com**
 
-- 📄 Know about my experiences [https:/www.linkedin.com/in/michaeltorresdeveloper/](https:/www.linkedin.com/in/michaeltorresdeveloper/)
+- 📄 Know about my experiences [[https:/www.linkedin.com/in/michaeltorresdeveloper/](https:/www.linkedin.com/in/michaeltorresdeveloper/)](https://www.linkedin.com/in/michaeltorresdeveloper/)
 
 - ⚡ Fun fact **I'm Italian but I cook code, not pasta. 💀**
 
