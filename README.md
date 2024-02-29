@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikixit&label=Profile%20views&color=0e75b6&style=flat&color=brightgreen" alt="mikixit"/> </p>
 
-- 🌱 I’m currently learning **React, Typescript, NodeJS**
+- 🌱 I’m currently learning **React, Typescript, NodeJS**   
 
-- 💻 All of my projects are available at [https://github.com/MikixIT?tab=repositories](https://github.com/MikixIT?tab=repositories)
+- 💻 All of my projects are available at [My Github Repository](https://github.com/MikixIT?tab=repositories)
 
 - 💬 Ask me about **Javascript, Design UX & UI**
 
 - 📫 How to reach me **michaeltorrespa@gmail.com**
 
-- 📄 Know about my experiences [Linkedin] (https://www.linkedin.com/in/michaeltorresdeveloper/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/michaeltorresdeveloper/)
 
 - ⚡ Fun fact **I'm Italian but I cook code, not pasta. 💀**
 
