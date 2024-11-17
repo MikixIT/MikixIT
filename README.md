@@ -9,7 +9,7 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mikixit&label=Profile%20views&color=0e75b6&style=flat&color=brightgreen" alt="mikixit"/> </p>
 
-<h1 align="center">My Stats</h1>
+<h1 align="center">My Stats 📈</h1>
 
 <p align="center">
   <a href="#">
