@@ -5,7 +5,7 @@
 <h3 align="center">  🏠 Based in Hamburg. </h3>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap,js,ts,vue,react,nodejs,mysql,vite,obsidian,apple"">
+    <img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap,js,ts,vue,nuxt,react,nodejs,mysql,vite,obsidian,apple"">
   </a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mikixit&label=Profile%20views&color=0e75b6&style=flat&color=brightgreen" alt="mikixit"/> </p>
