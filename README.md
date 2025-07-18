@@ -1,5 +1,5 @@
 <h1 align="center">👋  Hey,  <a href="https://www.linkedin.com/in/michaeltorresdev/">Michael</a> here.  👨🏻‍💻 </h1>
-<h3 align="center"> ⌨️ Front-end Web Developer.  </h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2500&pause=500&color=38A6F7&center=true&width=1200&height=130&lines=Creative+Developer+%F0%9F%8E%A8++;+Fullstack+Developer%2C+Frontend-first+mindset+%F0%9F%A4%9F%F0%9F%8F%BB;I++%E2%9D%A4%EF%B8%8F++TS%2C+React%2C+Vue%2C+Nuxt.js%2C+Next.js++%F0%9F%9A%80" alt="Typing SVG" /></a>
 <h3 align="center">  🏠 Based in Hamburg. </h3>
 <h3 align="center"><a href="https://www.linkedin.com/in/michaeltorresdev/">💼 Linkedin</a></h2>
 <h3 align="center"><a href="https://www.michaeltorresdev.dev">➡️ Take a look at my portfolio</a></h2>
