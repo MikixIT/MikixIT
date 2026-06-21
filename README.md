@@ -5,7 +5,7 @@
 <h1 align="center"><a href="https://www.michaeltorresdev.dev">➡️ Take a look at my portfolio</a></h1>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=js,ts,vue,nuxt,react,nodejs,mysql,postgresql,tailwind,sass">
+    <img src="https://skillicons.dev/icons?i=js,ts,vue,nuxt,react,nodejs,mysql,django,postgresql,tailwind,sass">
   </a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mikixit&label=Profile%20views&color=0e75b6&style=flat&color=brightgreen" alt="mikixit"/> </p>
